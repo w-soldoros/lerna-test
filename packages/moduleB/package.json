@@ -1,5 +1,5 @@
 {
-  "name": "@lernatest/moduleb",
+  "name": "@w-wutianqi/moduleb",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
     "lodash": "^4.17.21",
     "vue": "^2.6.14"
   },
-  "gitHead": "68248977857c41beb002a02e10f1ffb2237f145b"
+  "gitHead": "158a15c7484d488f8a4a4dfa6d59d87aba87d943"
 }
