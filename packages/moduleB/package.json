@@ -12,5 +12,8 @@
     "lodash": "^4.17.21",
     "vue": "^2.6.14"
   },
-  "gitHead": "158a15c7484d488f8a4a4dfa6d59d87aba87d943"
+  "gitHead": "719e897457890b6bf1b942c4696f6d26332dd57b",
+  "publishConfig": {
+    "access": "public"
+  }
 }
