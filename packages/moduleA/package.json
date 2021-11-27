@@ -13,7 +13,7 @@
     "jquery": "^3.6.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "719e897457890b6bf1b942c4696f6d26332dd57b",
+  "gitHead": "6d9551436218e93c215837d5e7a46e861c36a22d",
   "publishConfig": {
     "access": "public"
   }
