@@ -1,6 +1,6 @@
 {
   "name": "wutianqi-lerna-test",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@w-wutianqi/modulea": "^1.1.0",
-    "@w-wutianqi/moduleb": "^1.0.6"
+    "@w-wutianqi/modulea": "^2.0.0",
+    "@w-wutianqi/moduleb": "^2.0.0"
   },
   "gitHead": "6d9551436218e93c215837d5e7a46e861c36a22d"
 }
